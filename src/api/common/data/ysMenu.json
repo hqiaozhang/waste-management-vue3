@@ -1,0 +1,122 @@
+{
+  "erroCode": 2000, 
+  "erroMsg": null, 
+  "result": {
+      "javascript:void(0)": "2c92848f62ce22440162d3367f830003", 
+      "/waste-management/#/managePlanFiling": "7887ce4e657843e7a0e35859f8954317", 
+      "/waste-management/#/transferPlanFiling": "7887ce4e657843e7a0e35859f8954317", 
+      "/waste-management/#/managePlanApproval": "7887ce4e657843e7a0e35859f8954317", 
+      "/waste-management/#/transferPlanApproval": "7887ce4e657843e7a0e35859f8954317", 
+      "/waste-management/#/standingBook": "7887ce4e657843e7a0e35859f8954317", 
+      "/waste-management/#/warehouse": "7887ce4e657843e7a0e35859f8954317", 
+      "/waste-management/#/storageWarehouse": "7887ce4e657843e7a0e35859f8954317", 
+      "/waste-management/#/transferReceipt": "2c92848f62ce22440162d2ee37a90001", 
+      "/waste-management/#/dispatchSheet": "2c92848f62ce22440162d2ee37a90001",  
+      "/waste-management/#/transferAccount": "7887ce4e657843e7a0e35859f8954317", 
+      "/waste-management/#/disposalAccount": "7887ce4e657843e7a0e35859f8954317", 
+      "/waste-management/#/outputAccount": "7887ce4e657843e7a0e35859f8954317",  
+      "/waste-management/#/companyManagement": "7887ce4e657843e7a0e35859f89127", 
+      "/waste-management/#/wastePoint": "7887ce4e657843e7a0e35859f89127", 
+      "/waste-management/#/storageFacilities": "7887ce4e657843e7a0e35859f89127", 
+      "/waste-management/#/disposalFacilities": "7887ce4e657843e7a0e35859f89127", 
+      "/waste-management/#/monitorPoint": "7887ce4e657843e7a0e35859f89127", 
+      "/waste-management/#/carManagement": "7887ce4e657843e7a0e35859f89127", 
+      "/waste-management/#/driverManagement": "7887ce4e657843e7a0e35859f89127", 
+      "/waste-management/#/wasteInfo": "7887ce4e657843e7a0e35859f89127", 
+      "/waste-management/#/wasteSource": "7887ce4e657843e7a0e35859f89127",  
+      "2c92848f62ce22440162d2ee37a90001": [
+        {
+            "childList": null, 
+            "code": "ROLE_FUN_006_02", 
+            "haveChildren": false, 
+            "iconUrl": "", 
+            "id": "2c92848f61543d380161613630ad18", 
+            "menuName": "待派遣联单", 
+            "menuUrl": "/waste-management/#/dispatchSheet", 
+            "orderNo": 1, 
+            "parentId": "7887ce4e657843e7a0e35859f89127"
+        },
+        {
+            "childList": null, 
+            "code": "ROLE_FUN_006_02", 
+            "haveChildren": false, 
+            "iconUrl": "", 
+            "id": "2c92848f615616a2630adax0002", 
+            "menuName": "转移联单", 
+            "menuUrl": "/waste-management/#/transferReceipt", 
+            "orderNo": 1, 
+            "parentId": "2c92848f640256f50164257f71260000"
+        }
+      ],
+      "7887ce4e657843e7a0e35859f89127": [
+          {
+              "childList": null, 
+              "code": "ROLE_FUN_006_02", 
+              "haveChildren": false, 
+              "iconUrl": "", 
+              "id": "2c92848f61543d380161613630ad18", 
+              "menuName": "企业信息", 
+              "menuUrl": "/waste-management/#/companyManagement", 
+              "orderNo": 1, 
+              "parentId": "7887ce4e657843e7a0e35859f89127"
+          },  
+          {
+              "childList": null, 
+              "code": "ROLE_FUN_006_02", 
+              "haveChildren": false, 
+              "iconUrl": "", 
+              "id": "2c92848f61543d380161613630ad00010", 
+              "menuName": "车辆信息", 
+              "menuUrl": "/waste-management/#/carManagement", 
+              "orderNo": 1, 
+              "parentId": "7887ce4e657843e7a0e35859f89127"
+          }, 
+          {
+              "childList": null, 
+              "code": "ROLE_FUN_006_02", 
+              "haveChildren": false, 
+              "iconUrl": "", 
+              "id": "2c92848f61543d380161613630ad00011", 
+              "menuName": "驾驶员信息", 
+              "menuUrl": "/waste-management/#/driverManagement", 
+              "orderNo": 1, 
+              "parentId": "7887ce4e657843e7a0e35859f89127"
+          }
+      ], 
+      "first": [
+          {
+              "childList": null, 
+              "code": "ROLE_FUN_01", 
+              "haveChildren": false, 
+              "iconUrl": "", 
+              "id": "2c92848f62ce22440162d2ecf46a0000", 
+              "menuName": "首页", 
+              "menuUrl": "/waste-management/#/index", 
+              "orderNo": 1, 
+              "parentId": null
+          }, 
+          {
+              "childList": null, 
+              "code": "ROLE_FUN_02", 
+              "haveChildren": true, 
+              "iconUrl": "", 
+              "id": "2c92848f62ce22440162d2ee37a90001", 
+              "menuName": "转移管理", 
+              "menuUrl": "javascript:void(0)", 
+              "orderNo": 3, 
+              "parentId": null
+          }, 
+          {
+              "childList": null, 
+              "code": "ROLE_FUN_001", 
+              "haveChildren": true, 
+              "iconUrl": "", 
+              "id": "7887ce4e657843e7a0e35859f89127", 
+              "menuName": "信息管理", 
+              "menuUrl": "javascript:void(0)", 
+              "orderNo": 4, 
+              "parentId": null
+          }
+      ]
+  }
+}

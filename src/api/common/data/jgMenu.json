@@ -1,0 +1,297 @@
+{
+  "erroCode": 2000, 
+  "erroMsg": null, 
+  "result": {
+      "javascript:void(0)": "2c92848f62ce22440162d3367f830003", 
+      "/waste-management/#/managePlanFiling": "7887ce4e657843e7a0e35859f8954317", 
+      "/waste-management/#/transferPlanFiling": "7887ce4e657843e7a0e35859f8954317", 
+      "/waste-management/#/managePlanApproval": "7887ce4e657843e7a0e35859f8954317", 
+      "/waste-management/#/transferPlanApproval": "7887ce4e657843e7a0e35859f8954317", 
+      "/waste-management/#/provincialTransferApproval": "7887ce4e657843e7a0e35859f8954317",  
+      "/waste-management/#/standingBook": "2c92848f62ce22440162d2ee37a90001", 
+      "/waste-management/#/warehouse": "7887ce4e657843e7a0e35859f8954317", 
+      "/waste-management/#/storageWarehouse": "7887ce4e657843e7a0e35859f8954317", 
+      "/waste-management/#/transferReceipt": "7887ce4e657843e7a0e35859f8954317", 
+      "/waste-management/#/transferAccount": "7887ce4e657843e7a0e35859f8954317", 
+      "/waste-management/#/disposalAccount": "7887ce4e657843e7a0e35859f8954317", 
+      "/waste-management/#/outputAccount": "7887ce4e657843e7a0e35859f8954317", 
+      "/waste-management/#/materialFlow": "2c92848f62ce22440162d2ee37a90001", 
+      "/waste-management/#/dataStatistics": "2c92848f62ce22440162d2ee37a90001", 
+      "/waste-management/#/companyManagement": "7887ce4e657843e7a0e35859f89127", 
+      "/waste-management/#/wastePoint": "7887ce4e657843e7a0e35859f89127", 
+      "/waste-management/#/storageFacilities": "7887ce4e657843e7a0e35859f89127", 
+      "/waste-management/#/disposalFacilities": "7887ce4e657843e7a0e35859f89127", 
+      "/waste-management/#/monitorPoint": "7887ce4e657843e7a0e35859f89127", 
+      "/waste-management/#/carManagement": "7887ce4e657843e7a0e35859f89127", 
+      "/waste-management/#/driverManagement": "7887ce4e657843e7a0e35859f89127", 
+      "/waste-management/#/wasteInfo": "7887ce4e657843e7a0e35859f89127", 
+      "/waste-management/#/wasteSource": "7887ce4e657843e7a0e35859f89127",
+      "/waste-management/#/licenseManagement": "7887ce4e657843e7a0e35859f8954317", 
+      "/waste-management/#/eiaFilingApproval": "7887ce4e657843e7a0e35859f8954317",
+      "/waste-management/#/wasteMonthlyReport": "7887ce4e657843e7a0e35859f8954317", 
+      "/waste-management/#/monthlyBusinessReport": "7887ce4e657843e7a0e35859f8954317",
+      "/waste-management/#/normalizationCheck": "7887ce4e657843e7a0e35859f8954317",
+      "/waste-management/#/productionLimit": "7887ce4e657843e7a0e35859f8954317",
+      "/waste-management/#/punishmentRegistration": "7887ce4e657843e7a0e35859f8954317",
+      "/waste-management/#/operatingAccount": "7887ce4e657843e7a0e35859f8954317",
+      "7887ce4e657843e7a0e35859f8954317": [ 
+          {
+              "childList": [
+                  {
+                      "childList": null, 
+                      "code": "ROLE_FUN_006_02", 
+                      "haveChildren": false, 
+                      "iconUrl": "", 
+                      "id": "2c92848f61543d38016161363040002", 
+                      "menuName": "管理计划备案审批", 
+                      "menuUrl": "/waste-management/#/managePlanApproval", 
+                      "orderNo": 1, 
+                      "parentId": "2c92848f640256f50164257f71260000"
+                  }, 
+                  {
+                      "childList": null, 
+                      "code": "ROLE_FUN_006_02", 
+                      "haveChildren": false, 
+                      "iconUrl": "", 
+                      "id": "2c92848f61543d380261613630ad0001", 
+                      "menuName": "转移计划备案审批", 
+                      "menuUrl": "/waste-management/#/transferPlanApproval", 
+                      "orderNo": 1, 
+                      "parentId": "2c92848f640256f50164257f71260000"
+                  },
+                  {
+                    "childList": null, 
+                    "code": "ROLE_FUN_006_02", 
+                    "haveChildren": false, 
+                    "iconUrl": "", 
+                    "id": "2c92848f61543d38026s1613630ad0001", 
+                    "menuName": "跨省转入申请审批", 
+                    "menuUrl": "/waste-management/#/provincialTransferApproval", 
+                    "orderNo": 1, 
+                    "parentId": "2c92848f640256f50164257f71260000"
+                },
+                  {
+                    "childList": null, 
+                    "code": "ROLE_FUN_006_02", 
+                    "haveChildren": false, 
+                    "iconUrl": "", 
+                    "id": "2c92848f615616a2630adax0002", 
+                    "menuName": "转移联单", 
+                    "menuUrl": "/waste-management/#/transferReceipt", 
+                    "orderNo": 1, 
+                    "parentId": "2c92848f640256f50164257f71260000"
+                }
+              ], 
+              "code": "ROLE_FUN_006_02", 
+              "haveChildren": true, 
+              "iconUrl": "", 
+              "id": "2c92848f61543d380161613630ad0001", 
+              "menuName": "转移管理", 
+              "menuUrl": "/waste-management/#/technology", 
+              "orderNo": 1, 
+              "parentId": "7887ce4e657843e7a0e35859f8954317"
+          }, 
+          {
+              "childList": [
+                  {
+                      "childList": null, 
+                      "code": "ROLE_FUN_006_02", 
+                      "haveChildren": false, 
+                      "iconUrl": "", 
+                      "id": "2c92848f6156161x3630ad0002", 
+                      "menuName": "许可证管理", 
+                      "menuUrl": "/waste-management/#/licenseManagement", 
+                      "orderNo": 1, 
+                      "parentId": "2c92848f640256f50164257f71260000"
+                  },{
+                    "childList": null, 
+                    "code": "ROLE_FUN_006_02", 
+                    "haveChildren": false, 
+                    "iconUrl": "", 
+                    "id": "2c92848f61a56161x3630ad0002", 
+                    "menuName": "环评备案审批", 
+                    "menuUrl": "/waste-management/#/eiaFilingApproval", 
+                    "orderNo": 1, 
+                    "parentId": "2c92848f640256f50164257f71260000"
+                },{
+                    "childList": null, 
+                    "code": "ROLE_FUN_006_02", 
+                    "haveChildren": false, 
+                    "iconUrl": "", 
+                    "id": "2c92848f6156161x36ww30ad0002", 
+                    "menuName": "产废月报", 
+                    "menuUrl": "/waste-management/#/wasteMonthlyReport", 
+                    "orderNo": 1, 
+                    "parentId": "2c92848f640256f50164257f71260000"
+                },{
+                    "childList": null, 
+                    "code": "ROLE_FUN_006_02", 
+                    "haveChildren": false, 
+                    "iconUrl": "", 
+                    "id": "2c92848f6156161x3630ad320002", 
+                    "menuName": "经营月报", 
+                    "menuUrl": "/waste-management/#/monthlyBusinessReport", 
+                    "orderNo": 1, 
+                    "parentId": "2c92848f640256f50164257f71260000"
+                }
+              ], 
+              "code": "ROLE_FUN_04_05", 
+              "haveChildren": true, 
+              "iconUrl": "", 
+              "id": "2c92848f62ce22440162d32a256a00s2", 
+              "menuName": "经营管理", 
+              "menuUrl": "/waste-management/#/costAnalysis", 
+              "orderNo": 4, 
+              "parentId": "7887ce4e657843e7a0e35859f8954317"
+          }, 
+          {
+              "childList": [
+                {
+                    "childList": null, 
+                    "code": "ROLE_FUN_006_02", 
+                    "haveChildren": false, 
+                    "iconUrl": "", 
+                    "id": "2c92848f6156161x3630ad0aa0bd02", 
+                    "menuName": "停产限制", 
+                    "menuUrl": "/waste-management/#/productionLimit", 
+                    "orderNo": 1, 
+                    "parentId": "2c92848f640256f50164257f71260000"
+                },{
+                    "childList": null, 
+                    "code": "ROLE_FUN_006_02", 
+                    "haveChildren": false, 
+                    "iconUrl": "", 
+                    "id": "2c92848f6156161x3630asd0aa002", 
+                    "menuName": "规范化检查", 
+                    "menuUrl": "/waste-management/#/normalizationCheck", 
+                    "orderNo": 1, 
+                    "parentId": "2c92848f640256f50164257f71260000"
+                },{
+                    "childList": null, 
+                    "code": "ROLE_FUN_006_02", 
+                    "haveChildren": false, 
+                    "iconUrl": "", 
+                    "id": "2c92848f6156161xa3630ad0aaa002", 
+                    "menuName": "处罚登记", 
+                    "menuUrl": "/waste-management/#/punishmentRegistration", 
+                    "orderNo": 1, 
+                    "parentId": "2c92848f640256f50164257f71260000"
+                }
+              ], 
+              "code": "ROLE_FUN_005_03", 
+              "haveChildren": true, 
+              "iconUrl": "", 
+              "id": "402881255ce7a21b015ce82730ce0003", 
+              "menuName": "企业管理", 
+              "menuUrl": "/waste-management/#/hybridReport", 
+              "orderNo": 4, 
+              "parentId": "7887ce4e657843e7a0e35859f8954317"
+          }
+      ], 
+      "2c92848f62ce22440162d2ee37a90001": [
+        {
+            "childList": null, 
+            "code": "ROLE_FUN_006_02", 
+            "haveChildren": false, 
+            "iconUrl": "", 
+            "id": "2c92848f61561613630afdd0002", 
+            "menuName": "产废台账", 
+            "menuUrl": "/waste-management/#/standingBook", 
+            "orderNo": 1, 
+            "parentId": "2c92848f640256f50164257f71260000"
+        },
+        {
+            "childList": null, 
+            "code": "ROLE_FUN_006_02", 
+            "haveChildren": false, 
+            "iconUrl": "", 
+            "id": "2c92848f615616136aa30ad0002", 
+            "menuName": "经营台账", 
+            "menuUrl": "/waste-management/#/operatingAccount", 
+            "orderNo": 1, 
+            "parentId": "2c92848f640256f50164257f71260000"
+        },
+        {
+            "childList": null, 
+            "code": "ROLE_FUN_006_02", 
+            "haveChildren": false, 
+            "iconUrl": "", 
+            "id": "2c92848f61543d380161613630ad0001z", 
+            "menuName": "统计分析", 
+            "menuUrl": "/waste-management/#/materialFlow", 
+            "orderNo": 1, 
+            "parentId": "2c92848f62ce22440162d2ee37a90001"
+        }
+      ], 
+      "7887ce4e657843e7a0e35859f89127": [
+          {
+              "childList": null, 
+              "code": "ROLE_FUN_006_02", 
+              "haveChildren": false, 
+              "iconUrl": "", 
+              "id": "2c92848f61543d380161613630ad18", 
+              "menuName": "一企一档", 
+              "menuUrl": "/waste-management/#/companyManagement", 
+              "orderNo": 1, 
+              "parentId": "7887ce4e657843e7a0e35859f89127"
+          }
+      ], 
+      "first": [
+          {
+              "childList": null, 
+              "code": "ROLE_FUN_01", 
+              "haveChildren": false, 
+              "iconUrl": "", 
+              "id": "2c92848f62ce22440162d2ecf46a0000", 
+              "menuName": "首页", 
+              "menuUrl": "/waste-management/#/index", 
+              "orderNo": 1, 
+              "parentId": null
+          }, 
+          {
+            "childList": null, 
+            "code": "ROLE_FUN_01", 
+            "haveChildren": false, 
+            "iconUrl": "", 
+            "id": "2c92848f62ce2244023162d2ecf46a0000", 
+            "menuName": "一张图", 
+            "menuUrl": "/waste-management/#/index", 
+            "orderNo": 1, 
+            "parentId": null
+        }, 
+          {
+              "childList": null, 
+              "code": "ROLE_FUN_12", 
+              "haveChildren": true, 
+              "iconUrl": "", 
+              "id": "7887ce4e657843e7a0e35859f8954317", 
+              "menuName": "业务过程管理", 
+              "menuUrl": "javascript:void(0)", 
+              "orderNo": 2, 
+              "parentId": null
+          }, 
+          {
+              "childList": null, 
+              "code": "ROLE_FUN_02", 
+              "haveChildren": true, 
+              "iconUrl": "", 
+              "id": "2c92848f62ce22440162d2ee37a90001", 
+              "menuName": "数据分析", 
+              "menuUrl": "javascript:void(0)", 
+              "orderNo": 3, 
+              "parentId": null
+          }, 
+          {
+              "childList": null, 
+              "code": "ROLE_FUN_001", 
+              "haveChildren": true, 
+              "iconUrl": "", 
+              "id": "7887ce4e657843e7a0e35859f89127", 
+              "menuName": "信息管理", 
+              "menuUrl": "javascript:void(0)", 
+              "orderNo": 4, 
+              "parentId": null
+          }
+      ]
+  }
+}

@@ -1,0 +1,68 @@
+/*
+ * @Author: xiexiaoying
+ * @Date: 2020-07-06 14:21
+ * @Email: 634021337@qq.com
+ * @Description: 颜色定制
+ * @Last Modified by: zhanghongqiao
+ * @Last Modified time: 2022-03-09 16:44:59
+ */
+
+$themes: (
+  // 默认主题
+  default: (
+	  // index
+	  fontWhite:#fff,
+	  hlColor: #00BBFF, // 高亮颜色
+	  inputBor: rgba(185, 186, 187, 0.25),
+		white65: rgba(255,255,255,0.65),
+		white85: rgba(255,255,255,0.85),
+		white45: rgba(255,255,255,0.45),
+		white35: rgba(255,255,255,0.35),
+	  white15: rgba(255,255,255,0.15),
+		white10: rgba(255,255,255,0.1),
+		white05: rgba(255,255,255,0.05),
+	  black45: rgba(0,0,0,0.45),
+	  black35: rgba(0,0,0,0.35),
+
+		tabSelBg:#052348,
+	  indexRightBg: rgba(0,187,255,0.05),
+	  indexRightBor: rgba(0,187,255, 0.1),
+	  sideBg: #0B2F5C,
+    sideBrColor: #264E95,
+		c00bbff20:rgba(0,187,255,0.2),
+		c00bbff15:rgba(0,187,255,0.15),
+		c00bbff25:rgba(0,187,255,0.25),
+		c00bbff45:rgba(0,187,255,0.45),
+		c00bbff65:rgba(0,187,255,0.65), 
+		bor0777dd: #0777dd,
+		bor0777dd45: rgba(7,119,221, 0.45),
+		bor0777dd10: rgba(7,119,221, 0.1),
+		bor0777dd15: rgba(7,119,221, 0.15),
+		bor0777dd65: rgba(7,119,221, 0.65),
+		bor0777dd20: rgba(7,119,221, 0.2),
+		redColor: #F54336,
+		greenColor: #4CB051, 
+		raidoCol: #040911,
+		btnbg: #00BBFF,
+		yellowColor: #FF7F00
+  ),
+  // 绿色主题
+  blue: (
+	  hlColor: #13BCBE, // 高亮颜色
+	  mainC1: #1A1A1A, // 文本主颜色
+	  mainC2: #092266,
+	  crumbCol: #ADB2C0,
+	  fontWhite:#fff,
+	  // 背景
+	  bgWhite: #fff,
+	  // 背景
+	  sideBg: #F2F6F9,
+	  // 输入度分秒
+	  borCol: #1D84EF,
+
+
+    // 状态颜色
+	  poll_trace: #E64B51, //待处理
+	  inProcessColor: #FFB700, // 处理中
+  )
+);
